@@ -9,4 +9,5 @@ robot navigation using Q-learning.'  by:
 Magdalena Falkowska <falkowska.madzia@gmail.com>
 
 Code goes for Dyna-Q algorithm
+
 **main.m to start**
